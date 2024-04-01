@@ -1,6 +1,6 @@
 # Kurt.js
 
-A rewrite of kurt in javascript from python.
+A rewrite of [kurt](https://github.com/higotenda/kurt) in javascript from python.
 
 ## Usage
 
